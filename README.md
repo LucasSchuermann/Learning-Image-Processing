@@ -1,13 +1,28 @@
-# Learning-Image-Processing-# Project Title
+# Learning Image Processing with Python
 
-Brief description of what this project does and who it's for
+This repository documents my journey learning image processing through practical implementations in Python. It contains three Jupyter notebooks exploring fundamentals and Fourier transforms.
 
-## Features
+## Notebooks
 
-- Feature 1
-- Feature 2
-- Feature 3
+### 1. Image Processing Fundamentals
+Covers core concepts including:
+- Digital image representation
+- Color spaces and models 
+- Basic transformations and filters
+- Histogram operations
 
+### 2. Discrete Fourier Transform Implementation
+Custom implementation of DFT based on "Python Programming and Numerical Methods" by Kong, Siauw, and Bayen. Includes:
+- Mathematical foundations
+- Step-by-step implementation
+- Performance analysis
+- Comparison with NumPy's FFT
+
+### 3. Spatial Domain vs. Frequency Domain
+Explores relationships between spatial and frequency representations through:
+- Wave superposition visualization
+- Frequency filtering effects
+- Practical image manipulation examples
 ## Installation
 
 ```bash
