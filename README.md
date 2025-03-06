@@ -15,7 +15,6 @@ Covers core concepts including:
 Custom implementation of DFT based on "Python Programming and Numerical Methods" by Kong, Siauw, and Bayen. Includes:
 - Mathematical foundations
 - Step-by-step implementation
-- Performance analysis
 - Comparison with NumPy's FFT
 
 ### 3. Spatial Domain vs. Frequency Domain
