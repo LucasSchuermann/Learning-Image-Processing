@@ -23,4 +23,6 @@ Explores relationships between spatial and frequency representations through:
 - Wave superposition visualization
 - Frequency filtering effects
 - Practical image manipulation examples
+
+Representation of the image using various numbers of frequency components 
 ![Picture with waves](Readme_Images/DFT.gif)
