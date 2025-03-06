@@ -23,8 +23,4 @@ Explores relationships between spatial and frequency representations through:
 - Wave superposition visualization
 - Frequency filtering effects
 - Practical image manipulation examples
-## Installation
-
-```bash
-npm install my-project
-cd my-project
+![Picture with waves](Readme_Images/DFT.gif)
